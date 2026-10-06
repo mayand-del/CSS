@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 10px;
+}
+
+h2{
+    font-weight:bold;
+    line-height: 0.5;
+}
